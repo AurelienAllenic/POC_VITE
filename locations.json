@@ -1,0 +1,44 @@
+[
+  {
+    "user": "enzo",
+    "latitude": 50.8931379,
+    "longitude": 2.2269452,
+    "timestamp": "2025-03-27T14:28:26.260Z"
+  },
+  {
+    "user": "aurelien",
+    "latitude": 48.889856,
+    "longitude": 2.2249472,
+    "timestamp": "2025-03-27T14:30:10.685Z"
+  },
+  {
+    "user": "paul",
+    "latitude": 48.889856,
+    "longitude": 2.2249472,
+    "timestamp": "2025-03-27T14:31:14.487Z"
+  },
+  {
+    "user": "test",
+    "latitude": 48.889856,
+    "longitude": 2.2249472,
+    "timestamp": "2025-03-27T14:33:11.748Z"
+  },
+  {
+    "user": "paulbis",
+    "latitude": 48.889856,
+    "longitude": 2.2249472,
+    "timestamp": "2025-03-27T15:01:48.360Z"
+  },
+  {
+    "user": "paulbisbis",
+    "latitude": 48.889856,
+    "longitude": 2.2249472,
+    "timestamp": "2025-03-27T15:02:00.037Z"
+  },
+  {
+    "user": "paulle test",
+    "latitude": 48.889856,
+    "longitude": 2.2249472,
+    "timestamp": "2025-03-27T15:02:06.386Z"
+  }
+]
